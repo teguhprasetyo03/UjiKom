@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UjiKom</string>
+    <string name="npk_karyawan">NPK Karyawan</string>
+    <string name="nama_karyawan">Nama Karyawan</string>
+    <string name="jk_karyawan">Jenis kelamin</string>
+    <string name="gaji_karyawan">Gaji Karyawan</string>
+    <string name="jabatan_karyawan">Jabatan Karyawan</string>
+    <string name="create_data">Create Data</string>
+    <string name="show_data">Show Data</string>
+    <string name="save">SAVE</string>
+    <string name="masukkan_gaji_karyawan">Masukkan Divisi Karyawan</string>
+    <string name="masukkan_jenis_kelamin_karyawan">Masukkan Jenis Kelamin Karyawan</string>
+    <string name="masukkan_jabatan_karyawan">Masukkan Jabatan Karyawan</string>
+    <string name="masukkan_nama_karyawan">Masukkan Nama Karyawan</string>
+    <string name="masukkan_npk_karyawan">Masukkan NPK Karyawan</string>
+</resources>
